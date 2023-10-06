@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "252046623526",
+    "firebase_url": "https://electra-touch-default-rtdb.firebaseio.com",
+    "project_id": "electra-touch",
+    "storage_bucket": "electra-touch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252046623526:android:b4622a1f350f82b52237e7",
+        "android_client_info": {
+          "package_name": "com.sparrowbit.electratouchregistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsCtifSGs4d0Uu5uTsVtuZRm5Uo8256Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
